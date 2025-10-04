@@ -23,9 +23,9 @@
 ---
 
 ## 📈 GitHub Stats
-![demouser421's GitHub stats](https://github-readme-stats.vercel.app/api?username=demouser421&show_icons=true&hide_border=true&count_private=true&theme=radical)  
+![demouser421's GitHub stats](https://github-readme-stats.vercel.app/api?username=demouser428&show_icons=true&hide_border=true&count_private=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demouser421&hide_border=true&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demouser428&hide_border=true&layout=compact&theme=radical)  
 
 ---
 
