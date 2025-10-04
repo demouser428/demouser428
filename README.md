@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/demouser421)  
 
 ---
 
@@ -23,12 +23,11 @@
 ---
 
 ## 📈 GitHub Stats
-![Aswathi's GitHub stats](https://github-readme-stats.vercel.app/api?demouser428&show_icons=true&hide_border=true&count_private=true&theme=radical)  
+![demouser421's GitHub stats](https://github-readme-stats.vercel.app/api?username=demouser421&show_icons=true&hide_border=true&count_private=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?demouser428&hide_border=true&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=demouser421&hide_border=true&layout=compact&theme=radical)  
 
 ---
 
 ## 💬 Get In Touch
 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) or [email](mailto:YOUR_EMAIL).
-
